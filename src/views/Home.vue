@@ -4,7 +4,7 @@
           Home.
       </span>
       <div class="flex gap-5 text-xl font-medium">
-          <router-link :to="{ name: 'page' }" class="hover:text-amber-600 transition-colors duration-200 ease-out"> Page </router-link>
+          <router-link :to="{ name: 'page' }" class="hover:text-strawberry font-medium transition-colors duration-200 ease-out"> Page </router-link>
       </div>
   </div>
 </template>
